@@ -1,0 +1,12 @@
+C:\Users\Billy Bennett\source\repos\ReeTail\bin\Debug\netcoreapp2.0\ReeTail.deps.json
+C:\Users\Billy Bennett\source\repos\ReeTail\bin\Debug\netcoreapp2.0\ReeTail.runtimeconfig.json
+C:\Users\Billy Bennett\source\repos\ReeTail\bin\Debug\netcoreapp2.0\ReeTail.runtimeconfig.dev.json
+C:\Users\Billy Bennett\source\repos\ReeTail\bin\Debug\netcoreapp2.0\ReeTail.dll
+C:\Users\Billy Bennett\source\repos\ReeTail\bin\Debug\netcoreapp2.0\ReeTail.pdb
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.csprojResolveAssemblyReference.cache
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.csproj.CoreCompileInputs.cache
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.AssemblyInfoInputs.cache
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.AssemblyInfo.cs
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.dll
+C:\Users\Billy Bennett\source\repos\ReeTail\obj\Debug\netcoreapp2.0\ReeTail.pdb
